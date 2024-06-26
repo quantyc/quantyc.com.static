@@ -1,0 +1,1 @@
+# quantyc.com.static
